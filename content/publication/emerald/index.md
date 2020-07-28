@@ -3,7 +3,7 @@ title: "Online-Offline Social Ties in Massive Multiplayer Online Games"
 authors:
 - admin
 author_notes:
-- "First author"
+- ""
 date: "2019-11-11T00:00:00Z"
 doi: "https://doi.org/10.1108/S2050-206020190000019004"
 
@@ -26,7 +26,6 @@ abstract: This study traces the boundaries of online-based social networks and i
 summary: This study traces the boundaries of online-based social networks and its possible extensions and intersections with offline social networks.
 
 tags:
-- Source Themes
 featured: true
 
 # links:

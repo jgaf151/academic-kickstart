@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: First Author Publications
 
 # View.
 #   1 = List
