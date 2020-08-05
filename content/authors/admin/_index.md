@@ -44,13 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: jga@usf.edu #'#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:jga@usf.edu #'#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=NNuBzCcAAAAJ
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Juan_Arroyo-Flores  
+  link: https://www.researchgate.net/profile/Juan_Arroyo-Flores
 #- icon: github
   icon_pack: fab
   link: 
